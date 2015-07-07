@@ -1,0 +1,15 @@
+<?php
+
+	$mysql_servidor	= "localhost";
+	$mysql_usuario	= "root";
+	$mysql_pword	= "";
+	$mysql_bdatos	= "ciceserep";
+
+	$mysql_servidor	= "localhost";
+	$mysql_usuario	= "webuser";
+	$mysql_pword	= "webnum";
+	$mysql_bdatos	= "ciceserep";
+	
+	$tema_sitio		= "simple";
+
+?>
