@@ -6,7 +6,7 @@ Released under the MIT License <http://www.opensource.org/licenses/mit-license.p
 */
 
 // Define a destination
-$targetFolder = '/repositorio/tmp/files'; // Relative to the root
+$targetFolder = '/kiliwa/tmp/files'; // Relative to the root
 
 if (!empty($_FILES)) {
 	$tempFile = $_FILES['Filedata']['tmp_name'];
