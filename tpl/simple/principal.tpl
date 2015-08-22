@@ -84,7 +84,7 @@
     <td valign="top" bgcolor="#FFFFFF"><form id="articulos" name="articulos" method="post" action="?p=procesar-articulos-eliminar">
       <table width="95%" border="0" align="center" cellpadding="12" cellspacing="0" class="fondoImagen">
               <tr>
-                <td>Bienvenido al <strong>Repositorio Compartido CICESE</strong>,
+                <td>Bienvenido a <strong>Kiliwa Repositorio Compartido desarrollado en CICESE</strong>,
                   este sistema surgi&oacute; de la necesidad de compartir archivos,
                   art&iacute;culos, v&iacute;nculos, tutoriales y notas entre
                   tesistas de maestr&iacute;a y doctorado. A continuaci&oacute;n
